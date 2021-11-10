@@ -4,8 +4,10 @@
 
 I'm a self-taught passionate FrontEnd developer from Georgia. I really enjoy learning languages and frameworks like React.JS , JavaScript and SASS.
 
+Skills and Experience
+⚛ React
+💻 HTML CSS JS Bootstrap
 
-Skills: REACT / JS / HTML / CSS / Bootstrap
 
 - 🌱 I’m currently learning React.JS 
 - 👯 I’m looking to collaborate on New Projects 
