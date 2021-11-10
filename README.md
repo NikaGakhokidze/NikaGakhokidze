@@ -6,6 +6,7 @@ I'm a self-taught passionate FrontEnd developer from Georgia. I really enjoy lea
 
 Skills and Experience
 ⚛ React
+
 💻 HTML CSS JS Bootstrap
 
 
